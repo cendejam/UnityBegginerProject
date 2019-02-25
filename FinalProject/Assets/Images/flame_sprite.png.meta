@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: fd6e68b9759b947a4ac1238efc44dd00
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flame_sprite_0
+    21300002: flame_sprite_1
+    21300004: flame_sprite_2
+    21300006: flame_sprite_3
+    21300008: flame_sprite_4
+    21300010: flame_sprite_5
+    21300012: flame_sprite_6
+    21300014: flame_sprite_7
+    21300016: flame_sprite_8
+    21300018: flame_sprite_9
+    21300020: flame_sprite_10
+    21300022: flame_sprite_11
+    21300024: flame_sprite_12
+    21300026: flame_sprite_13
+    21300028: flame_sprite_14
+    21300030: flame_sprite_15
+    21300032: flame_sprite_16
+    21300034: flame_sprite_17
+    21300036: flame_sprite_18
+    21300038: flame_sprite_19
+    21300040: flame_sprite_20
+    21300042: flame_sprite_21
+    21300044: flame_sprite_22
+    21300046: flame_sprite_23
+    21300048: flame_sprite_24
+    21300050: flame_sprite_25
+    21300052: flame_sprite_26
+    21300054: flame_sprite_27
+    21300056: flame_sprite_28
+    21300058: flame_sprite_29
+    21300060: flame_sprite_30
+    21300062: flame_sprite_31
+    21300064: flame_sprite_32
+    21300066: flame_sprite_33
+    21300068: flame_sprite_34
+    21300070: flame_sprite_35
+    21300072: flame_sprite_36
+    21300074: flame_sprite_37
+    21300076: flame_sprite_38
+    21300078: flame_sprite_39
+    21300080: flame_sprite_40
+    21300082: flame_sprite_41
+    21300084: flame_sprite_42
+    21300086: flame_sprite_43
+    21300088: flame_sprite_44
+    21300090: flame_sprite_45
+    21300092: flame_sprite_46
+    21300094: flame_sprite_47
+    21300096: flame_sprite_48
+    21300098: flame_sprite_49
+    21300100: flame_sprite_50
+    21300102: flame_sprite_51
+    21300104: flame_sprite_52
+    21300106: flame_sprite_53
+    21300108: flame_sprite_54
+    21300110: flame_sprite_55
+    21300112: flame_sprite_56
+    21300114: flame_sprite_57
+    21300116: flame_sprite_58
+    21300118: flame_sprite_59
+    21300120: flame_sprite_60
+    21300122: flame_sprite_61
+    21300124: flame_sprite_62
+    21300126: flame_sprite_63
+    21300128: flame_sprite_64
+    21300130: flame_sprite_65
+    21300132: flame_sprite_66
+    21300134: flame_sprite_67
+    21300136: flame_sprite_68
+    21300138: flame_sprite_69
+    21300140: flame_sprite_70
+    21300142: flame_sprite_71
+    21300144: flame_sprite_72
+    21300146: flame_sprite_73
+    21300148: flame_sprite_74
+    21300150: flame_sprite_75
+    21300152: flame_sprite_76
+    21300154: flame_sprite_77
+    21300156: flame_sprite_78
+    21300158: flame_sprite_79
+    21300160: flame_sprite_80
+    21300162: flame_sprite_81
+    21300164: flame_sprite_82
+    21300166: flame_sprite_83
+    21300168: flame_sprite_84
+    21300170: flame_sprite_85
+    21300172: flame_sprite_86
+    21300174: flame_sprite_87
+    21300176: flame_sprite_88
+    21300178: flame_sprite_89
+    21300180: flame_sprite_90
+    21300182: flame_sprite_91
+    21300184: flame_sprite_92
+    21300186: flame_sprite_93
+    21300188: flame_sprite_94
+    21300190: flame_sprite_95
+    21300192: flame_sprite_96
+    21300194: flame_sprite_97
+    21300196: flame_sprite_98
+    21300198: flame_sprite_99
+    21300200: flame_sprite_100
+    21300202: flame_sprite_101
+    21300204: flame_sprite_102
+    21300206: flame_sprite_103
+    21300208: flame_sprite_104
+    21300210: flame_sprite_105
+    21300212: flame_sprite_106
+    21300214: flame_sprite_107
+    21300216: flame_sprite_108
+    21300218: flame_sprite_109
+    21300220: flame_sprite_110
+    21300222: flame_sprite_111
+    21300224: flame_sprite_112
+    21300226: flame_sprite_113
+    21300228: flame_sprite_114
+    21300230: flame_sprite_115
+    21300232: flame_sprite_116
+    21300234: flame_sprite_117
+    21300236: flame_sprite_118
+    21300238: flame_sprite_119
+    21300240: flame_sprite_120
+    21300242: flame_sprite_121
+    21300244: flame_sprite_122
+    21300246: flame_sprite_123
+    21300248: flame_sprite_124
+    21300250: flame_sprite_125
+    21300252: flame_sprite_126
+    21300254: flame_sprite_127
+    21300256: flame_sprite_128
+    21300258: flame_sprite_129
+    21300260: flame_sprite_130
+    21300262: flame_sprite_131
+    21300264: flame_sprite_132
+    21300266: flame_sprite_133
+    21300268: flame_sprite_134
+    21300270: flame_sprite_135
+    21300272: flame_sprite_136
+    21300274: flame_sprite_137
+    21300276: flame_sprite_138
+    21300278: flame_sprite_139
+    21300280: flame_sprite_140
+    21300282: flame_sprite_141
+    21300284: flame_sprite_142
+    21300286: flame_sprite_143
+    21300288: flame_sprite_144
+    21300290: flame_sprite_145
+    21300292: flame_sprite_146
+    21300294: flame_sprite_147
+    21300296: flame_sprite_148
+    21300298: flame_sprite_149
+    21300300: flame_sprite_150
+    21300302: flame_sprite_151
+    21300304: flame_sprite_152
+    21300306: flame_sprite_153
+    21300308: flame_sprite_154
+    21300310: flame_sprite_155
+    21300312: flame_sprite_156
+    21300314: flame_sprite_157
+    21300316: flame_sprite_158
+    21300318: flame_sprite_159
+    21300320: flame_sprite_160
+    21300322: flame_sprite_161
+    21300324: flame_sprite_162
+    21300326: flame_sprite_163
+    21300328: flame_sprite_164
+    21300330: flame_sprite_165
+    21300332: flame_sprite_166
+    21300334: flame_sprite_167
+    21300336: flame_sprite_168
+    21300338: flame_sprite_169
+    21300340: flame_sprite_170
+    21300342: flame_sprite_171
+    21300344: flame_sprite_172
+    21300346: flame_sprite_173
+    21300348: flame_sprite_174
+    21300350: flame_sprite_175
+    21300352: flame_sprite_176
+    21300354: flame_sprite_177
+    21300356: flame_sprite_178
+    21300358: flame_sprite_179
+    21300360: flame_sprite_180
+    21300362: flame_sprite_181
+    21300364: flame_sprite_182
+    21300366: flame_sprite_183
+    21300368: flame_sprite_184
+    21300370: flame_sprite_185
+    21300372: flame_sprite_186
+    21300374: flame_sprite_187
+    21300376: flame_sprite_188
+    21300378: flame_sprite_189
+    21300380: flame_sprite_190
+    21300382: flame_sprite_191
+    21300384: flame_sprite_192
+    21300386: flame_sprite_193
+    21300388: flame_sprite_194
+    21300390: flame_sprite_195
+    21300392: flame_sprite_196
+    21300394: flame_sprite_197
+    21300396: flame_sprite_198
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flame_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 437
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde2537b91324cdaaab1de4e59c08eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 511
+        width: 214
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def413eb115e3453ea6c795e21114586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 82
+        width: 456
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92faefcc6e24ad296c3a8f380c8f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 509
+        width: 70
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a96be59b4747b7848a1cb2be27cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 72
+        width: 476
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec1de86695f44c3855d9fbd64a7370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 72
+        width: 556
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d25768b3f94949afb21467862ab8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 511
+        width: 217
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3349fdd11801142b494369161a715b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 82
+        width: 466
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50547def8ce654ef095181b0fe09a0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 511
+        width: 78
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93164f65218bb44c798c59a94c7ba4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flame_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 132
+        width: 502
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2607b0876fce840a39597e837cc9e3e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0714564336ab41aca39c5bbe774ed4a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
